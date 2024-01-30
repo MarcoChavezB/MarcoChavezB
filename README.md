@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Front-end developer**
 
-- 🌱 I’m currently learning **Backen**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **marco1102004@gmail.com**
 
