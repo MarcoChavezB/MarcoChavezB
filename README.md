@@ -10,11 +10,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Rest Api**
+- 🔭 I’m currently working on **Front-end developer**
 
-- 🌱 I’m currently learning **Frameworks and Backend**
-
-- 💬 Ask me about **C#, Vue and Android**
+- 🌱 I’m currently learning **Backen**
 
 - 📫 How to reach me **marco1102004@gmail.com**
 
