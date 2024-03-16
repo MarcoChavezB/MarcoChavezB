@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-
-<body>
-  <p align="center">
+<p align="center">
     <a href="https://github.com/MarcoChavezB">
       <img src="https://github.com/MarcoChavezB/MarcoChavezB/assets/123757334/9da09ca4-0bcf-4f23-9fb0-7bc466303c2d"
         alt="MasterHead" width="100%">
@@ -76,6 +66,3 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcochavezb&theme=dark"
       alt="marcochavezb" /></p>
 
-</body>
-
-</html>
