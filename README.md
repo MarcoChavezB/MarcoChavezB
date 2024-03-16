@@ -7,7 +7,8 @@
   
   <h1 align="center">Hi 👋, I'm Marco</h1>
   <h3 align="center">A passionate developer from México</h3>
-  
+  ![lively_p](https://github.com/MarcoChavezB/MarcoChavezB/assets/123757334/e8b94a6a-afc6-4060-8d5c-9424177306c8)
+
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
   <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
   
