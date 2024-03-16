@@ -8,7 +8,7 @@
   <h1 align="center">Hi 👋, I'm Marco</h1>
   <h3 align="center">A passionate developer from México</h3>
 
-  <img align="right" alt="Coding" width="600" src="https://github.com/MarcoChavezB/MarcoChavezB/assets/123757334/e8b94a6a-afc6-4060-8d5c-9424177306c8">
+  <img align="right" alt="Coding" width="500" src="https://github.com/MarcoChavezB/MarcoChavezB/assets/123757334/e8b94a6a-afc6-4060-8d5c-9424177306c8">
   <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
   
   - 🔭 I’m currently working on **Web applications**
