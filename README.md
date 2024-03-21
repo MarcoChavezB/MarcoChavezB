@@ -16,6 +16,10 @@
   - 🌱 I’m currently learning **Web frameworks**
   
   - 📫 How to reach me **marco1102004@gmail.com**
+
+  - About me:
+
+    Hello, my name is Marco Antonio. I'm a programmer passionate about learning new technologies. Right now, I'm more focused on web development (frontend and backend), always using web frameworks like Angular 17, Vue.js, Laravel, and Adonis.
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
