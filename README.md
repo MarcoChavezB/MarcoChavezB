@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝
 ```
 
-### Full-Stack Developer · México 🇲🇽
+### Mobile & Backend Developer · México 🇲🇽
 
 [![Email](https://img.shields.io/badge/marco1102004@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:marco1102004@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008690471487)
@@ -21,10 +21,10 @@
 
 ## 👨‍💻 Sobre mí
 
-Hola, soy **Marco Antonio**, desarrollador apasionado por construir aplicaciones web modernas. Me especializo tanto en frontend como en backend, siempre buscando aprender nuevas tecnologías y frameworks.
+Hola, soy **Marco Antonio**, desarrollador apasionado por crear aplicaciones móviles y servicios backend robustos. Me especializo en **Flutter** para el desarrollo móvil multiplataforma, combinado con backends sólidos, siempre buscando aprender nuevas tecnologías.
 
-- 🔭 Actualmente trabajando en **aplicaciones web full-stack**
-- 🌱 Explorando y profundizando en **frameworks modernos**
+- 🔭 Actualmente trabajando en **aplicaciones móviles con Flutter**
+- 🌱 Profundizando en **desarrollo mobile multiplataforma**
 - ⚡ Me encanta resolver problemas complejos con soluciones limpias y escalables
 - 📍 Basado en **México**
 
@@ -32,12 +32,9 @@ Hola, soy **Marco Antonio**, desarrollador apasionado por construir aplicaciones
 
 ## 🛠️ Stack Tecnológico
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -51,14 +48,6 @@ Hola, soy **Marco Antonio**, desarrollador apasionado por construir aplicaciones
 ### Base de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### DevOps & Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
 
 ---
 
