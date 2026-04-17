@@ -1,38 +1,86 @@
-  <p align="center">
-    <a href="https://github.com/MarcoChavezB">
-      <img src="https://github.com/MarcoChavezB/MarcoChavezB/assets/123757334/9da09ca4-0bcf-4f23-9fb0-7bc466303c2d" alt="MasterHead" width="100%">
-    </a>
-  </p>
-  
-  
-  <h1 align="center">Hi 👋, I'm Marco</h1>
-  <h3 align="center">A passionate developer from México</h3>
+<div align="center">
 
-  <img align="right" alt="Coding" width="450" src="https://github.com/MarcoChavezB/MarcoChavezB/assets/123757334/e8b94a6a-afc6-4060-8d5c-9424177306c8">
-  <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-  
-  - 🔭 I’m currently working on **Web applications**
-  
-  - 🌱 I’m currently learning **Web frameworks**
-  
-  - 📫 How to reach me **marco1102004@gmail.com**
+```
+███╗   ███╗ █████╗ ██████╗  ██████╗ ██████╗
+████╗ ████║██╔══██╗██╔══██╗██╔════╝██╔═══██╗
+██╔████╔██║███████║██████╔╝██║     ██║   ██║
+██║╚██╔╝██║██╔══██║██╔══██╗██║     ██║   ██║
+██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╗╚██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝
+```
 
-  - About me:
+### Full-Stack Developer · México 🇲🇽
 
-    Hello, my name is Marco Antonio. I'm a programmer passionate about learning new technologies. Right now, I'm more focused on web development (frontend and backend), always using web frameworks like Angular 17, Vue.js, Laravel, and Adonis.
-  
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100008690471487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008690471487" height="30" width="40" /></a>
-  </p>
-  
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><br> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-  
-  
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcochavezb&show_icons=true&locale=en&layout=compact" alt="marcochavezb" /></p>
-  
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcochavezb&show_icons=true&locale=en" alt="marcochavezb" /></p>
-  
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcochavezb&theme=dark" alt="marcochavezb" /></p>
-  
+[![Email](https://img.shields.io/badge/marco1102004@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:marco1102004@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008690471487)
+[![Profile Views](https://komarev.com/ghpvc/?username=marcochavezb&style=flat-square&color=blueviolet)](https://github.com/MarcoChavezB)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mí
+
+Hola, soy **Marco Antonio**, desarrollador apasionado por construir aplicaciones web modernas. Me especializo tanto en frontend como en backend, siempre buscando aprender nuevas tecnologías y frameworks.
+
+- 🔭 Actualmente trabajando en **aplicaciones web full-stack**
+- 🌱 Explorando y profundizando en **frameworks modernos**
+- ⚡ Me encanta resolver problemas complejos con soluciones limpias y escalables
+- 📍 Basado en **México**
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+### Base de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### DevOps & Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcochavezb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcochavezb&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcochavezb&theme=tokyonight&hide_border=true)](https://github.com/MarcoChavezB)
+
+</div>
+
+---
+
+<div align="center">
+
+*"El código limpio no es solo el que funciona, es el que otros pueden entender."*
+
+</div>
