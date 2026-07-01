@@ -64,9 +64,3 @@ Hola, soy **Marco Antonio**, desarrollador apasionado por crear aplicaciones mó
 </div>
 
 ---
-
-<div align="center">
-
-*"El código limpio no es solo el que funciona, es el que otros pueden entender."*
-
-</div>
