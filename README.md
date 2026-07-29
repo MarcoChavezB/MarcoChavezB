@@ -12,7 +12,6 @@
 ### Mobile & Backend Developer · México 🇲🇽
 
 [![Email](https://img.shields.io/badge/marco1102004@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:marco1102004@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008690471487)
 [![Profile Views](https://komarev.com/ghpvc/?username=marcochavezb&style=flat-square&color=blueviolet)](https://github.com/MarcoChavezB)
 
 </div>
