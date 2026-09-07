@@ -25,9 +25,6 @@ Hola, soy **Marco Antonio**, Ingeniero en Desarrollo de Software con **3 años d
 - 🏗️ Experiencia en arquitectura e infraestructura escalable
 - 🗄️ Gestión de bases de datos relacionales y NoSQL
 - 📱 Despliegue de aplicaciones móviles y web orientadas a optimizar procesos operativos
-- 🤖 Desarrollo asistido por IA y prompt engineering para refactorización, debugging y aceleración de código
-- 🌎 Español nativo · Inglés B2 (intermedio avanzado)
-
 ---
 
 ## 💼 Experiencia destacada
